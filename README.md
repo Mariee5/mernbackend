@@ -37,13 +37,13 @@ Ensure MongoDB is installed and running on `mongodb://localhost:27017`
 
 > Images are stored in `screenshots/` and referenced directly.
 
-![Homepage](./screenshots/Screenshot%202025-11-05%20201408.png)
+![Homepage](./Screenshot%202025-11-05%20201408.png)
 
-![Services](./screenshots/Screenshot%202025-11-05%20201445.png)
+![Services](./Screenshot%202025-11-05%20201445.png)
 
-![Registration](./screenshots/Screenshot%202025-11-05%20201514.png)
+![Registration](./Screenshot%202025-11-05%20201514.png)
 
-![Map View](./screenshots/Screenshot%202025-11-05%20201537.png)
+![Map View](./Screenshot%202025-11-05%20201537.png)
 
 ## How It Was Built
 
